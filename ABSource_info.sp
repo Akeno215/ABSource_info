@@ -39,7 +39,7 @@ public Plugin myinfo =
 	author = PLUGIN_AUTHOR, 
 	description = "N/A", 
 	version = PLUGIN_VERSION, 
-	url = "id/ToTenBioly"
+	url = "http://absource.pl/"
 };
 
 // ====================
